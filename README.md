@@ -29,6 +29,6 @@
 # ScreenShot
 
 ![](screenshot/tanduran.png) <br>
-![](screenshot/Screenshot(149).png) <br>
-![](screenshot/Screenshot(152).png) <br>
+![](screenshot/Screenshot149.png) <br>
+![](screenshot/Screenshot152.png) <br>
 ![](screenshot/profile.png) 
