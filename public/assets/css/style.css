@@ -1,0 +1,47 @@
+html, body, * {
+  font-family: Poppins;
+}
+
+.navbar {
+  box-shadow: 0 1px 0 0 #f5f5f5; 
+  box-shadow: 0 1px 0 0 #f5f5f5; 
+  position: fixed; 
+  width: 100%; 
+  top: 0; 
+  z-index: 10; 
+  background-color: #fff;
+}
+
+.card {
+  max-width: 260px; 
+  border-radius: .75rem;
+}
+
+.card-title {
+  margin-bottom: .3rem;
+  font-weight: 600;
+}
+
+.footer {
+  background-color: #198754;
+}
+
+.footer-logo {
+  width: fit-content; 
+  padding: 10px 15px; 
+  background-color: #fff; 
+  border-radius: 7px;
+  margin-left: 20px;
+}
+
+.footer-menu {
+  width: fit-content; 
+  display: flex; 
+  align-items: center;
+}
+
+.fm-list {
+  margin: 0 16px; 
+  color: white; 
+  text-decoration: none;
+}
